@@ -1,1 +1,3 @@
 # GitSample
+
+	- Learning git basics.
